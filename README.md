@@ -27,4 +27,4 @@ This project analyzes inventory risk to help businesses identify overstocking, s
 
 ## 👤 Author
 Yash Shirture  
-Data Analyst
+Data Analyst | Data Analyst | Excel • SQL • Power BI
