@@ -17,7 +17,7 @@ This project analyzes inventory risk to help businesses identify overstocking, s
 - Business Analysis
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+
 
 ## 🎯 Decision Support Value
 - Supports proactive inventory replenishment planning
